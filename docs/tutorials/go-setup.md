@@ -5,7 +5,6 @@
 1. Docker Desktop App
 2. Visual Studio Code
 3. Git
-4. GitHub Account
 
 ---
 ## Setting up a dev container for Go
