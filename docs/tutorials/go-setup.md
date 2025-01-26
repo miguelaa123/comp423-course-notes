@@ -1,11 +1,13 @@
 # Go Tutorial
 
+---
 ## Prerequisites 
 1. Docker Desktop App
 2. Visual Studio Code
 3. Git
 4. GitHub Account
 
+---
 ## Setting up a dev container for Go
 
 ### Step 1: Creating a Local Directory and Initializing with Git
@@ -20,6 +22,7 @@ git init
 
 ## Creating a new Project in Go
 
+---
 ## References
 1. [Starting a Static Website Project with MkDocs](https://comp423-25s.github.io/resources/MkDocs/tutorial/#step-2-add-requirementstxt-python-dependency-configuration)
 
