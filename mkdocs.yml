@@ -1,7 +1,11 @@
 site_name: COMP423 Course Notes
 theme:
   name: material
+
 markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed: #Added content tab extension to help you organize information. Refer to https://squidfunk.github.io/mkdocs-material/reference/content-tabs/
+      alternate_style: true
   - pymdownx.highlight:
       anchor_linenums: true
       line_spans: __span
